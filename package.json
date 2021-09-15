@@ -1,6 +1,6 @@
 {
   "name": "afkbot",
-  "version": "1.16.5",
+  "version": "1.16.1",
   "description": "",
   "main": "index.js",
   "scripts": {
